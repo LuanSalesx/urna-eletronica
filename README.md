@@ -1,3 +1,4 @@
 # Urna eletrônica 🗳️
 # Por Luan Dev
-Os nomes e números de candidatos estão na pasta etapas.js
+Os nomes e números de candidatos estão na pasta urna-eletronica/etapas.js
+
