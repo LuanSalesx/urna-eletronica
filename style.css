@@ -171,3 +171,24 @@ footer{
 footer a{
     color: #000;
 }
+
+@media (max-width:940px){
+   body{
+    margin: 0;
+   }
+   .urna{
+    display: block;
+    margin-left: 5px;
+    width: 324px;
+   } 
+   .d-1-left {
+    display: block;
+   }
+   .tela{
+    width: 318px;
+   }
+   .teclado{
+    margin-top: 20px;
+    margin-left: 0;
+   }
+}
