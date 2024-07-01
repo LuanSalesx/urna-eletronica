@@ -172,7 +172,7 @@ footer a{
     color: #000;
 }
 
-@media (max-width:940px){
+@media (max-width:800px){
    body{
     margin: 0;
    }
