@@ -21,7 +21,7 @@ let etapas = [
             },
             {
                 numero: '12113',
-                nome: 'Eva Sales',
+                nome: 'Cachorra',
                 partido: 'PT',
                 fotos: [
                     {url: 'vereador_3.jpg', legenda: 'Vereadora'}
@@ -53,7 +53,7 @@ let etapas = [
             },
             {
                 numero: '13',
-                nome: 'Luan Boladão',
+                nome: 'Boladão',
                 partido: 'PKT',
                 vice: 'Aldair da Senha',
                 fotos: [
